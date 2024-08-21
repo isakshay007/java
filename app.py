@@ -14,7 +14,7 @@ st.set_page_config(
     page_icon="lyzr-logo-cut.png",
 )
 
-st.title("Natural Language to Java Generator")
+st.title("Java Generator")
 st.markdown("### Built using Lyzr Agent-API🚀")
 st.markdown("Welcome to the Natural Language to Java Generator app! No matter if you're a beginner or an expert, this tool effortlessly converts your everyday language into accurate Java code, streamlining the coding process for all skill levels.")
 
